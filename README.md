@@ -5,11 +5,15 @@ A Python-based tool to transform photos of documents into clean, scanned-like im
 Features
 
 Image Preprocessing: Grayscale conversion, Gaussian blurring, and edge detection.
+
 Contour Detection: Identifies document boundaries in images.
+
 Perspective Correction: Warps the document to a flat, straightened view.
+
 Visualization: Before-and-after image comparison for better insights.
 
 Technologies Used
+
 Python
 OpenCV
 NumPy
